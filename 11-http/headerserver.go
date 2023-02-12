@@ -1,4 +1,4 @@
-s// Server1 is a minimal "echo" server.
+// Server1 is a minimal "echo" server.
 package main
 
 import (
